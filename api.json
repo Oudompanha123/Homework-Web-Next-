@@ -1,0 +1,90 @@
+{
+    "status": 200,
+    "message": "Get all available movies successfully.",
+    "payload": [
+        {
+            "movie_id": "d09b1c86-7142-44de-87a9-78f4e8291cbd",
+            "movie_title": "True Beauty",
+            "released_year": 2008,
+            "director": "Christopher Nolan",
+            "genre": "Action",
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+            "rating": 9,
+            "runtime": 152,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://m.ykimg.com/05350000649264B71427220BB938EDB4"
+        },
+        {
+            "movie_id": "b16a061e-3b5e-453f-b8b6-30411695a189",
+            "movie_title": "The Shawshank Redemption",
+            "released_year": 1994,
+            "director": "Frank Darabont",
+            "genre": "Drama",
+            "description": "In 1947, Andy Dufresne (Tim Robbins), a banker in Maine, is convicted of murdering his wife and her lover, a golf pro. Since the state of Maine has no death penalty, he is given two consecutive life sentences and sent to the notoriously harsh Shawshank Prison.",
+            "rating": 3.5,
+            "runtime": 142,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": ""
+        },
+        {
+            "movie_id": "ab6b6bda-3068-43cf-a0bb-f81daf7b43c9",
+            "movie_title": "The Matrix",
+            "released_year": 1999,
+            "director": "The Wachowskis",
+            "genre": "Science Fiction",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "rating": 8.7,
+            "runtime": 136,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWHGwywR-4-C2maiiDx2e_13TGlC5El9dRJDq9sovdUqPlL30tgk56Xu0QUfZu852cAFB31nK_YY1G5NodDNvmjdFnb-ePItm0O870VIqJAeXD7MvHrcPiJoxuHFtoBY6BudmQ.jpg?r=3e4"
+        },
+        {
+            "movie_id": "e11928da-030e-4a06-bef3-b38a4170281f",
+            "movie_title": "The Godfather",
+            "released_year": 1972,
+            "director": "Francis Ford Coppola",
+            "genre": "Crime",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "rating": 9.2,
+            "runtime": 175,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdhb7oZpb921oZre8rlm0rDyKhrecOg-aNmWi-FnuRw8lnwoLtdHdjseG6JF5nMyr4GjvPZsm98_16iDK64FeXEwzjqY4k-kkgtR1uEbdJRWgCsXV-GDkXwJGwOQjdb6leiNGQ.jpg?r=44c"
+        },
+        {
+            "movie_id": "6a658d33-6b26-4a8a-a36f-9e5c44aa54a5",
+            "movie_title": "Queen of Tears",
+            "released_year": 2008,
+            "director": "Christopher Nolan",
+            "genre": "Action",
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+            "rating": 9,
+            "runtime": 152,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://image.tving.com/upload/cms/caip/CAIP0400/P001731527.jpg/dims/resize/1280"
+        },
+        {
+            "movie_id": "15d64ccd-a337-48aa-8c50-0c2a0f2c1b26",
+            "movie_title": "Pulp Fiction",
+            "released_year": 1994,
+            "director": "Quentin Tarantino",
+            "genre": "Crime",
+            "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "rating": 8.9,
+            "runtime": 154,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://d2anahhhmp1ffz.cloudfront.net/1206954417/be0e5ead578698daa7f3b07c51083d0cd0910c4f"
+        },
+        {
+            "movie_id": "04178cf2-ff41-446f-8a91-3cd740584ae7",
+            "movie_title": "Memory in the letter (Uncut Ver.)",
+            "released_year": 2008,
+            "director": "Christopher Nolan",
+            "genre": "Action",
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+            "rating": 9,
+            "runtime": 152,
+            "posted_at": "2024-04-09T00:00:00.000Z",
+            "image": "https://prod-images.viu.com/2521856816/6feda49624fdc12682d3a83feb50a732252503f9"
+        }
+    ]
+}
